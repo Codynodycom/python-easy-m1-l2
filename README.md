@@ -14,6 +14,8 @@
 
 [Интерпретатор](theory/4-interpreter.md)
 
+[Ввод данных и преобразование типов](theory/5-input-convert.md)
+
 <hr>
 
 # Клонирование
