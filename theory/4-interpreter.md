@@ -1,4 +1,4 @@
-<h1 aling="center">Интерпретатор Python:</h1>
+<h1 align="center">Интерпретатор Python:</h1>
 
 <p align="center">
   <img src="imgs/interpreter.png" width="400">
